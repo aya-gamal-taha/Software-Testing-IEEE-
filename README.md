@@ -74,7 +74,3 @@ To empower learners and professionals with essential testing knowledge, structur
 </p>
 
 To build a reliable and professional community that contributes to producing skilled, confident, and industry-ready software testing professionals.
-
----
-
-تحبي الستايل ده ولا نخليه **Enterprise أكتر**؟ 💼
